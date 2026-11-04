@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 deactivate
 winget install Python.Python.3.12        # skip if you already have 3.12
 cd "D:\Mtech Notes\Semester 1\Seminar\Implementation"
@@ -72,3 +73,7 @@ Output goes to `results/`: `report.png` (the slide), `generated.png`, `control_l
 - The FaceNet threshold is not calibrated, and this is not Aadhaar's matcher.
 - There is no liveness test (blink, depth, challenge-response). Only a static image check is done.
 - Use your own face or a consenting volunteer.
+=======
+# BiometricDeepfakeImageDetection
+Generation and detection of images for Biometric Deepfake Detection
+>>>>>>> a8181d7c986360d5327d9e81dda260ebf93a1044
