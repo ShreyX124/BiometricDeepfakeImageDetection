@@ -1,0 +1,2 @@
+image,caption,cosine,slope_real,slope_gen,deepfake_vs_real_image_detection_p_real,deepfake_vs_real_image_detection_p_gen,sdxl-detector_p_real,sdxl-detector_p_gen,attack_success
+Test_img1,a man in a black jacket and white shirt smiles at the camera,0.817,-3.61,-3.50,0.999,0.998,0.962,1.000,
